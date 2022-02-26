@@ -17,7 +17,7 @@ I will need to:
 ![buildthemodel.png](Images/buildmodel.png)
 ---
 ## Summarize the Model
-![summarizemodel.png](Images/summarizemodel.png)
+![summarizethemodel.png](Images/summarizemodel.png)
 ---
 ## Fear and Greed Real vs Predicted Prices
 ![fngrealvspredicted.png](Images/fearandgreedvsreal.png)
